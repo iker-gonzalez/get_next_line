@@ -20,7 +20,7 @@
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
   <span> · </span>
-	<a href="#%EF%B8%8F-third-party-testers">Usage</a>
+	<a href="#%EF%B8%8F-thirdparty-testers">Testing</a>
 </h3>
 
 ---
@@ -31,7 +31,7 @@
 
 For detailed information, refer to the [**subject of this project**](https://github.com/appinha/42cursus/tree/master/_PDFs).
 
-	🚀 TLDR: this project consists of coding a function that returns one line at a time from a text file.
+	🚀 This project consists of coding a function that returns one line at a time from a text file.
 
 ## 🛠️ Usage
 
