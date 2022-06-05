@@ -20,7 +20,7 @@
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
   <span> · </span>
-	<a href="#third-party-testers">Testing</a>
+	<a href="#testing">Testing</a>
 </h3>
 
 ---
@@ -61,7 +61,9 @@ If you're on Linux, you may as well need the following flags:
 -D ARG_MAX="sysconf(_SC_ARG_MAX)" -D OPEN_MAX=1024
 ```
 
-### Third-party testers
+### Testing
+
+You can use any of this third-party testers to test the project:
 
 * [mrjvs/42cursus_gnl_tests](https://github.com/mrjvs/42cursus_gnl_tests)
 * [Hellio404/Get_Next_Line_Tester](https://github.com/Hellio404/Get_Next_Line_Tester)
