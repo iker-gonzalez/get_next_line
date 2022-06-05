@@ -20,7 +20,7 @@
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
   <span> · </span>
-	<a href="#%EF%B8%8F-thirdparty-testers">Testing</a>
+	<a href="#third-party-testers">Testing</a>
 </h3>
 
 ---
@@ -29,7 +29,7 @@
 
 > _The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor._
 
-For detailed information, refer to the [**subject of this project**](https://github.com/appinha/42cursus/tree/master/_PDFs).
+For detailed information, refer to the [**subject of this project**](https://github.com/iker-gonzalez/42_cursus/blob/main/_PDFs/en.subject_get_next_line.pdf).
 
 	🚀 This project consists of coding a function that returns one line at a time from a text file.
 
