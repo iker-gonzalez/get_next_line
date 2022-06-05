@@ -4,7 +4,7 @@
 
 <p align="center">
 	<b><i>Development repo for 42cursus' get_next_line project</i></b><br>
-	For further information about 42cursus and its projects, please refer to <a href="https://github.com/appinha/42cursus"><b>42cursus repo</b></a>.
+	For further information about 42cursus and its projects, please refer to <a href="https://github.com/iker-gonzalez/42_cursus"><b>42cursus repo</b></a>.
 </p>
 
 <p align="center">
